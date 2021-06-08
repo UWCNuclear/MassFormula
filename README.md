@@ -16,3 +16,9 @@ To download all the files included in this repository, paste in your terminal:
     git clone https://github.com/UWCNuclear/MassFormula.git
 
 *Installation instructions for Ubuntu and Anaconda and Spyder at* https://github.com/UWCNuclear/UbuntuSetUp
+
+# PHY 312 Practicals
+
+1-2 pages: An explanation of the semi-empirical formula and strong evidence that you played with the Python code :-)
+
+On iKamva, by Thursday June 10th 2021, 2pm.
