@@ -19,6 +19,6 @@ To download all the files included in this repository, paste in your terminal:
 
 # PHY 312 Practicals
 
-1-2 pages: An explanation of the semi-empirical formula and strong evidence that you played with the Python code :-)
+1-2 pages: An explanation of the semi-empirical mass formula and strong evidence that you played with the Python code :-)
 
 On iKamva, by Thursday June 10th 2021, 2pm.
