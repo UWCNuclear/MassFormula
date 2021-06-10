@@ -11,9 +11,11 @@
 # Practical on the Semi-Empirical Mass Formula
 The code and data file are included in this repository.
 
-To download all the files included in this repository, paste in your terminal:
+To download all the files included in this repository on Ubuntu, paste in your terminal:
 
     git clone https://github.com/UWCNuclear/MassFormula.git
+    
+To download all the files included in this repository on Windows, click "Code" at the top righ of this page and then click "Download ZIP".    
 
 *Installation instructions for Ubuntu and Anaconda and Spyder at* https://github.com/UWCNuclear/UbuntuSetUp
 
