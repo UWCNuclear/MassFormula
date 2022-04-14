@@ -8,19 +8,28 @@
 *Practical #4: Semi-Empirical Mass Formula* https://www.youtube.com/watch?v=B2W0OYhtddY
 
 
-# Practical on the Semi-Empirical Mass Formula
+# To download the Semi-Empirical Mass Formula repository
 The code and data file are included in this repository.
 
 To download all the files included in this repository on Ubuntu, paste in your terminal:
 
     git clone https://github.com/UWCNuclear/MassFormula.git
     
-To download all the files included in this repository on Windows, click "Code" at the top righ of this page and then click "Download ZIP".    
+To download all the files included in this repository on Windows, click "Code" at the top right of this page and then "Download ZIP".    
 
-*Installation instructions for Ubuntu and Anaconda and Spyder at* https://github.com/UWCNuclear/UbuntuSetUp
+*Installation instructions for Ubuntu and Anaconda and Spyder:* https://github.com/UWCNuclear/UbuntuSetUp
+
+
+# To run the Semi-Empirical Mass Formula code
+
+To run a Python code:
+
+    python bindingenergyAtest.py
+
+or
+
+    python3 bindingenergyAtest.py
 
 # PHY 312 Practicals
 
-1-2 pages: An explanation of the semi-empirical mass formula and strong evidence that you played with the Python code :-)
-
-On iKamva, by Thursday June 10th 2021, 2pm.
+1-2 pages: An explanation of the semi-empirical mass formula and its symmetry term, and strong evidence that you played with the Python code :-)
